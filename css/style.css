@@ -66,6 +66,7 @@ a:link{
 }
 a:visited{
     text-decoration: none;
+    color: black;
 }
 .logo{
     position: fixed;
